@@ -21,13 +21,15 @@ I´m currently styduying Vulkan as a way to lear more about graphical API, rende
 **Soft Skills**:
 - Teamwork
 - Effective Communication
+- Attention to detail
 
 ## Professional Experience
 ### C++ Programmer | MercurySteam
 **August 2021 - Present**
 
-- **Developed** 
-- **Implemented** 
+- **Developed** Systems to blend animations from cinematic to gameplay seamessly. Systems that simplify life to level, mission and enemies designers used in missions. Metrics render system to visualize data inside game and editor in close collaboration with the design team. Missions with algorithmic needs that cannot be created by mission scripting team. Systems for the scripting team to be able to controll missions whith the scripting language instead of C++.
+- **Implemented** Console only features on current generation consoles. Dynamic mission systems in collaboration with design team.
+- **Mentored** Automation, logic and low level asset managment systems, already existing and other created by me, to new colleagues.
 
 ### C# Programmer | everis (NTT Data)
 **April 2018 - March 2021**
