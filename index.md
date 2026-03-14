@@ -13,7 +13,7 @@ I´m currently styduying Vulkan as a way to lear more about graphical API, rende
 
 ## Core Skills
 **Technical Skills**:
-- C++ 11/14, Lua, C#, Rust
+- C, C++, Lua, C#, Rust
 - Open GL 4.5, glsl, Vulkan
 - CI/CD (Jenkins)
 - System Design
@@ -27,8 +27,8 @@ I´m currently styduying Vulkan as a way to lear more about graphical API, rende
 ### C++ Programmer | MercurySteam
 **August 2021 - Present**
 
-- **Developed** Systems to blend animations from cinematic to gameplay seamessly. Systems that simplify life to level, mission and enemies designers used in missions. Metrics render system to visualize data inside game and editor in close collaboration with the design team. Missions with algorithmic needs that cannot be created by mission scripting team. Systems for the scripting team to be able to controll missions whith the scripting language instead of C++.
-- **Implemented** Console only features on current generation consoles. Dynamic mission systems in collaboration with design team.
+- **Developed** Systems to blend animations from cinematic to gameplay seamessly. Systems that simplify life to level, mission and enemy designers used in missions. Metrics render system to visualize data inside game and editor in close collaboration with the design team. Missions with algorithmic needs that cannot be created by mission scripting team. Systems for the scripting team to be able to control mission flow whith the scripting language instead of C++.
+- **Implemented** Console only features on current generation consoles. Dynamic mission systems in collaboration with design team. CI systems that take the game output as results. Distributed computing solutions for CI/CD jobs.
 - **Mentored** Automation, logic and low level asset managment systems, already existing and other created by me, to new colleagues.
 
 ### C# Programmer | everis (NTT Data)
